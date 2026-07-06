@@ -8,6 +8,7 @@ try:
     nltk.data.find("corpora/stopwords")
 except LookupError:
     nltk.download("stopwords")
+
 # =====================================================
 # Project Root
 # =====================================================
@@ -37,11 +38,11 @@ from generator.answer_generator import AnswerGenerator
 
 st.set_page_config(
     page_title="UPSC GS-II Curriculum Intelligence Engine",
-    page_icon="UPSC",
+    page_icon="📚",
     layout="wide"
 )
 
-st.title(" UPSC GS-II Curriculum Intelligence Engine")
+st.title("📚 UPSC GS-II Curriculum Intelligence Engine")
 
 st.markdown("""
 Hybrid Retrieval + Dense Retrieval + CrossEncoder + Qwen 2.5
@@ -121,7 +122,6 @@ if st.button("Generate Answer", type="primary"):
     if not query.strip():
 
         st.warning("Please enter a question.")
-
         st.stop()
 
     with st.spinner("Retrieving relevant documents..."):
@@ -143,7 +143,7 @@ if st.button("Generate Answer", type="primary"):
     # Retrieved Documents
     # =====================================================
 
-    st.subheader(" Retrieved Documents")
+    st.subheader("📄 Retrieved Documents")
 
     for row in ranked.itertuples():
 
@@ -158,13 +158,14 @@ if st.button("Generate Answer", type="primary"):
     # Answer
     # =====================================================
 
-    st.subheader(" AI Generated Answer")
+    st.subheader("🤖 AI Generated Answer")
 
     with st.spinner("Generating answer..."):
 
+        # IMPORTANT: positional arguments
         answer = generator.generate(
-            query=query,
-            documents=ranked
+            query,
+            ranked
         )
 
     st.markdown(answer)
