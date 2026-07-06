@@ -1,169 +1,161 @@
 #  UPSC GS-II Curriculum Intelligence Engine
 
-An AI-powered Retrieval-Augmented Generation (RAG) system for UPSC GS-II preparation that combines Constitutional Articles, Previous Year Questions (PYQs), structured knowledge notes, hybrid retrieval, reranking, and LLM-based answer generation.
+An end-to-end Retrieval-Augmented Generation (RAG) system for answering UPSC GS-II Mains questions using hybrid retrieval, neural reranking, and Large Language Models.
+
+The system retrieves relevant constitutional provisions, previous year questions (PYQs), and curated notes before generating a structured UPSC-style answer.
 
 ---
 
-## Overview
+##  Demo
 
-Preparing for UPSC Mains requires connecting constitutional provisions, governance concepts, and previous year questions. This project builds a structured knowledge base and uses Retrieval-Augmented Generation (RAG) to answer GS-II questions using relevant constitutional articles and PYQs.
+**Live Demo**
 
-The system combines lexical search, semantic search, reranking, and a language model to generate grounded answers.
+ https://huggingface.co/spaces/prakhya15/upsc-gs2-rag
 
 ---
 
-## Features
+##  Features
 
-- Constitution Article parser
-- UPSC GS-II PYQ parser (2013–2022)
-- Structured knowledge base generation
-- Knowledge graph construction
 - Hybrid Retrieval
-  - BM25 lexical retrieval
-  - Dense semantic retrieval (BGE embeddings)
-  - Reciprocal Rank Fusion (RRF)
-- CrossEncoder reranking
-- Qwen-based answer generation
-- Interactive Streamlit application
-- Retrieval evaluation pipeline
+  - BM25 lexical search
+  - Dense semantic retrieval using BGE embeddings
+-  CrossEncoder reranking for improved document relevance
+-  Answer generation using Qwen 2.5 Instruct
+-  Knowledge base containing
+  - Constitution Articles
+  - UPSC GS-II PYQs
+  - Curated GS-II Notes
+- Interactive Streamlit interface
+-  Deployed on Hugging Face Spaces
 
 ---
 
-## Architecture
+# Architecture
 
 ```
-                User Question
-                      │
-                      ▼
-          Hybrid Retrieval (BM25 + Dense)
-                      │
-                      ▼
-          Reciprocal Rank Fusion (RRF)
-                      │
-                      ▼
-            CrossEncoder Reranker
-                      │
-                      ▼
-           Top Relevant Documents
-                      │
-                      ▼
-        Qwen 2.5 Answer Generator
-                      │
-                      ▼
-              Final UPSC Answer
+                    User Question
+                           │
+                           ▼
+                 Hybrid Retrieval Pipeline
+          ┌─────────────────────────────────┐
+          │                                 │
+      BM25 Search                 Dense Retrieval
+          │                                 │
+          └──────────────┬──────────────────┘
+                         ▼
+                 Hybrid Score Fusion
+                         ▼
+               CrossEncoder Reranker
+                         ▼
+               Top Relevant Documents
+                         ▼
+                 Qwen 2.5 Instruct
+                         ▼
+           Structured UPSC GS-II Answer
 ```
 
 ---
 
-## Project Structure
+# Tech Stack
+
+| Component | Technology |
+|------------|------------|
+| Frontend | Streamlit |
+| Retrieval | BM25 |
+| Semantic Search | Sentence Transformers (BGE) |
+| Vector Search | FAISS |
+| Reranker | CrossEncoder MiniLM |
+| LLM | Qwen 2.5 |
+| Language | Python |
+| Deployment | Hugging Face Spaces |
+
+---
+
+# Project Structure
 
 ```
-upsc_rag_project/
-
+.
 ├── app/
 │   └── app.py
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
 ├── retrieval/
 │   ├── bm25.py
 │   ├── dense.py
 │   ├── hybrid.py
 │   └── reranker.py
-│
-├── knowledge_builder/
-│   ├── collect_documents.py
-│   ├── build_notes.py
-│   ├── build_structured_notes.py
-│   ├── build_graph.py
-│   ├── keyword_extractor.py
-│   ├── theme_extractor.py
-│   └── related_topics.py
-│
 ├── generator/
 │   └── answer_generator.py
-│
-├── evaluation/
-│   └── evaluate_retrieval.py
-│
+├── data/
+│   └── processed/
 ├── knowledge_base/
-├── knowledge_base_structured/
-├── knowledge_graph.html
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## Retrieval Pipeline
+# Retrieval Pipeline
 
-The retrieval system combines multiple retrieval techniques:
+### 1. BM25 Retrieval
 
-- BM25 lexical retrieval
-- Dense semantic retrieval using BAAI BGE embeddings
-- Reciprocal Rank Fusion (RRF)
-- CrossEncoder reranking
+Performs lexical keyword search over the UPSC knowledge base.
 
-This enables the system to retrieve relevant constitutional articles, knowledge notes, and previous year questions before generating answers.
+### 2. Dense Retrieval
 
----
+Uses BGE embeddings with FAISS to retrieve semantically similar documents.
 
-## Models Used
+### 3. Hybrid Retrieval
 
-| Component | Model |
-|-----------|-------|
-| Embeddings | BAAI/bge-base-en-v1.5 |
-| Reranker | BAAI/bge-reranker-base |
-| Generator | Qwen2.5-0.5B-Instruct |
+Combines BM25 and Dense Retrieval results.
 
----
+### 4. CrossEncoder Reranking
 
-## Dataset
+Ranks retrieved documents based on semantic relevance to the query.
 
-The project includes:
+### 5. Answer Generation
 
-- Indian Constitution Articles
-- UPSC GS-II Previous Year Questions (2013–2022)
-- Structured knowledge notes
-- Knowledge graph
+Qwen 2.5 generates a structured UPSC Mains answer grounded in the retrieved context.
 
 ---
 
-## Evaluation
+# Knowledge Sources
 
-The retrieval system was evaluated using manually annotated relevance labels.
-
-### Retrieval Performance
-
-| Metric | Score |
-|---------|-------|
-| Recall@5 | 0.590 |
-| Recall@10 | 0.735 |
-| Precision@5 | 0.590 |
-| MRR | 1.000 |
+- Constitution of India
+- UPSC GS-II Previous Year Questions
+- Curated GS-II Notes
+- Constitutional Articles
+- Governance Topics
 
 ---
 
-## Demo
+# Example Query
 
-The Streamlit application allows users to:
-
-- Ask UPSC GS-II questions
-- Retrieve relevant constitutional articles
-- View supporting PYQs
-- Generate AI-assisted UPSC-style answers
+```
+Evaluate the role of the Election Commission of India in ensuring free and fair elections. Discuss the constitutional provisions, challenges, and reforms required.
+```
 
 ---
 
-## Installation
+# Example Output
+
+- Retrieves relevant Constitution Articles
+- Retrieves related PYQs
+- Retrieves GS-II Notes
+- Generates a structured answer including
+
+- Introduction
+- Constitutional Provisions
+- Analysis
+- Way Forward
+- Conclusion
+
+---
+
+# Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/upsc-rag-project.git
-
+git clone https://github.com/gotnochill815-web/upsc-rag-project.git
 cd upsc-rag-project
 ```
 
@@ -173,7 +165,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Run the application
+Run
 
 ```bash
 streamlit run app/app.py
@@ -181,20 +173,30 @@ streamlit run app/app.py
 
 ---
 
-## Future Work
+# Future Improvements
 
-- Better citation-aware answer generation
-- Multi-hop retrieval
-- Graph-based retrieval
-- Topic-wise analytics
-- Answer evaluation
-- Support for additional GS papers
+- Source citations inside generated answers
+- RAG evaluation using RAGAS
+- Better prompt engineering
+- Support for multiple UPSC papers
+- Multi-turn conversational QA
+- Knowledge graph integration
 
 ---
 
-## Author
+# Author
 
 **Prakhya Khandelwal**
 
-AI/ML | Retrieval-Augmented Generation | NLP | Knowledge Graphs
+AI/ML | Retrieval-Augmented Generation | NLP | Large Language Models
 
+GitHub:
+https://github.com/gotnochill815-web
+
+---
+
+# License
+
+MIT License
+<img width="1919" height="1100" alt="image" src="https://github.com/user-attachments/assets/9eed6e9d-ebf9-4199-8fec-b307265a75fe" />
+<img width="1918" height="1100" alt="image" src="https://github.com/user-attachments/assets/d35b171f-285b-4628-b270-316b1b0096ef" />
