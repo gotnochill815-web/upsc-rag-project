@@ -22,13 +22,24 @@ class CrossEncoderReranker:
         self,
         model_name="cross-encoder/ms-marco-MiniLM-L-6-v2"
     ):
-        self.model = CrossEncoder(model_name)
+
+        self.model = CrossEncoder(
+            model_name
+        )
+
+        # Evaluation mode
+        if hasattr(self.model, "model"):
+            self.model.model.eval()
+
+    # ====================================================
+    # Rerank
+    # ====================================================
 
     def rerank(
         self,
         query,
         documents,
-        top_k=3
+        top_k=5
     ):
         """
         Re-rank retrieved documents.
@@ -42,7 +53,7 @@ class CrossEncoderReranker:
             Retrieved documents.
 
         top_k : int
-            Number of documents to keep.
+            Number of documents returned.
 
         Returns
         -------
@@ -50,27 +61,53 @@ class CrossEncoderReranker:
             Top reranked documents.
         """
 
+        if documents.empty:
+            return documents
+
         docs = documents.copy()
 
+        # ------------------------------------------------
         # Build retrieval text if missing
+        # ------------------------------------------------
+
         if "retrieval_text" not in docs.columns:
 
             docs["retrieval_text"] = (
+
                 docs["title"].fillna("")
                 + " "
                 + docs["topic"].fillna("")
                 + " "
                 + docs["text"].fillna("")
+
             )
 
+        # ------------------------------------------------
+        # Build query-document pairs
+        # ------------------------------------------------
+
         pairs = [
+
             (query, text)
+
             for text in docs["retrieval_text"]
+
         ]
 
-        scores = self.model.predict(pairs)
+        # ------------------------------------------------
+        # Predict relevance scores
+        # ------------------------------------------------
+
+        scores = self.model.predict(
+            pairs,
+            show_progress_bar=False
+        )
 
         docs["rerank_score"] = scores
+
+        # ------------------------------------------------
+        # Sort
+        # ------------------------------------------------
 
         docs = docs.sort_values(
             "rerank_score",
@@ -78,6 +115,10 @@ class CrossEncoderReranker:
         ).reset_index(drop=True)
 
         return docs.head(top_k)
+
+    # ====================================================
+    # Debug
+    # ====================================================
 
     def debug_rerank(
         self,
@@ -93,9 +134,17 @@ class CrossEncoderReranker:
         )
 
         cols = [
+
             "doc_id",
             "title",
+            "source",
             "rerank_score"
+
+        ]
+
+        cols = [
+            c for c in cols
+            if c in results.columns
         ]
 
         return results[cols]
