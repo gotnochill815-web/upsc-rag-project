@@ -198,4 +198,3 @@ streamlit run app/app.py
 
 AI/ML | Retrieval-Augmented Generation | NLP | Knowledge Graphs
 
-GitHub: https://github.com/<your-username>
