@@ -12,9 +12,10 @@ class AnswerGenerator:
 
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            torch_dtype=torch.float16,
-            device_map="auto"
+            torch_dtype=torch.float32
         )
+
+        self.model.eval()
 
     def build_prompt(self, question, docs):
 
