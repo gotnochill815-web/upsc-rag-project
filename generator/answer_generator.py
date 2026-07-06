@@ -6,7 +6,7 @@ class AnswerGenerator:
 
     def __init__(self):
 
-        model_name = "Qwen/Qwen2.5-0.5B-Instruct"
+        model_name = "Qwen/Qwen2.5-1.5B-Instruct"
 
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
 
