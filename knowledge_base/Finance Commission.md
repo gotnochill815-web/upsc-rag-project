@@ -1,0 +1,61 @@
+- Please note that all questions are based on the provisions of the Constitution of India.
+- All answers must be in English.
+- You need to provide bullet point summary of each document.
+- Each bullet point should contain the title of the document, source, content, and any relevant insights or key takeaways mentioned in the document.
+- Ensure that the notes are structured according to the given structure.
+- Avoid paraphrasing the text; instead, use your own words to explain the concepts discussed.
+- Include references to the articles in the notes wherever applicable.
+- Aim to cover all aspects of the question without going beyond the scope of the provided documents.
+- Make sure to mention the sources where appropriate.
+- Keep the length of the notes manageable, ideally around 10 pages.
+- Provide bullet points rather than full paragraphs for better readability.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+-

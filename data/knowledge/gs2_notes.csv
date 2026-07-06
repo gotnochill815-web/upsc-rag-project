@@ -1,0 +1,333 @@
+doc_id,source,title,topic,text
+NOTE_001,notes,Governor,Executive,"
+Definition:
+The Governor is the constitutional head of a State and acts as the nominal executive.
+
+Relevant Constitutional Articles:
+Articles 153, 155, 156, 157, 158, 159, 160, 161, 163, 167, 174, 175, 176, 200, 201, 213, 356.
+
+Key Functions:
+• Appoints the Chief Minister.
+• Appoints other Ministers on the advice of the Chief Minister.
+• Summons, prorogues and dissolves the State Legislature.
+• Gives assent to Bills.
+• Can reserve Bills for the consideration of the President.
+• Promulgates Ordinances under Article 213.
+• Acts as a constitutional link between the Union and the State.
+
+UPSC Focus:
+Role in Centre-State relations, discretionary powers, misuse of Article 356, Sarkaria Commission and Punchhi Commission recommendations.
+"
+NOTE_002,notes,President,Executive,"
+Definition:
+The President is the constitutional head of the Union and the first citizen of India.
+
+Relevant Constitutional Articles:
+Articles 52-78, 111, 123, 352, 356, 360.
+
+Key Functions:
+• Executive head of the Union.
+• Supreme Commander of the Armed Forces.
+• Summons and prorogues Parliament.
+• Gives assent to Bills.
+• Promulgates Ordinances.
+• Declares National, State and Financial Emergencies.
+
+UPSC Focus:
+Constitutional position, discretionary powers, emergency provisions and legislative role.
+"
+NOTE_003,notes,Prime Minister,Executive,"
+Definition:
+The Prime Minister is the real executive head of the Union Government.
+
+Relevant Constitutional Articles:
+Articles 74, 75 and 78.
+
+Key Functions:
+• Heads the Council of Ministers.
+• Advises the President.
+• Coordinates government policies.
+• Leader of the Lok Sabha or Rajya Sabha.
+• Principal spokesperson of the Government.
+
+UPSC Focus:
+Coalition governments, cabinet system, Prime Minister's Office (PMO) and executive leadership.
+"
+NOTE_004,notes,Council of Ministers,Executive,"
+Definition:
+The Council of Ministers assists and advises the President.
+
+Relevant Constitutional Articles:
+Articles 74 and 75.
+
+Key Features:
+• Collective responsibility to the Lok Sabha.
+• Headed by the Prime Minister.
+• Includes Cabinet Ministers, Ministers of State and Deputy Ministers.
+
+UPSC Focus:
+Collective responsibility, cabinet government and executive accountability.
+"
+NOTE_005,notes,Parliament,Legislature,"
+Definition:
+Parliament is the supreme legislative body of India consisting of the President, Lok Sabha and Rajya Sabha.
+
+Relevant Constitutional Articles:
+Articles 79-122.
+
+Functions:
+• Law making.
+• Budget approval.
+• Executive oversight.
+• Constitutional amendments.
+• Representation of the people.
+
+UPSC Focus:
+Parliamentary committees, disruptions, anti-defection law and legislative effectiveness.
+"
+NOTE_006,notes,Lok Sabha,Legislature,"
+Definition:
+Lok Sabha is the House of the People.
+
+Relevant Constitutional Articles:
+Articles 81-104.
+
+Key Functions:
+• Directly elected House.
+• Controls the Executive.
+• Passes Money Bills.
+• Approves Budget.
+• Can remove the Council of Ministers through a no-confidence motion.
+
+UPSC Focus:
+Money Bills, Speaker's powers and parliamentary accountability.
+"
+NOTE_007,notes,Rajya Sabha,Legislature,"
+Definition:
+Rajya Sabha is the Council of States representing the States of India.
+
+Relevant Constitutional Articles:
+Articles 80-104.
+
+Key Functions:
+• Permanent House.
+• Reviews legislation.
+• Represents States.
+• Can authorize Parliament to legislate on State List subjects under Article 249.
+
+UPSC Focus:
+Federalism and bicameralism.
+"
+NOTE_008,notes,Speaker,Legislature,"
+Definition:
+The Speaker presides over the Lok Sabha.
+
+Relevant Constitutional Articles:
+Articles 93-97.
+
+Key Functions:
+• Presides over House proceedings.
+• Maintains order.
+• Decides Money Bill certification.
+• Decides disqualification under the Tenth Schedule.
+
+UPSC Focus:
+Neutrality of the Speaker and anti-defection cases.
+"
+NOTE_009,notes,Supreme Court,Judiciary,"
+Definition:
+The Supreme Court is the highest judicial authority in India.
+
+Relevant Constitutional Articles:
+Articles 124-147.
+
+Jurisdiction:
+• Original.
+• Appellate.
+• Advisory.
+• Writ jurisdiction.
+• Judicial review.
+
+UPSC Focus:
+Judicial independence, judicial activism, PIL and basic structure doctrine.
+"
+NOTE_010,notes,High Courts,Judiciary,"
+Definition:
+High Courts are the highest courts at the State level.
+
+Relevant Constitutional Articles:
+Articles 214-231.
+
+Functions:
+• Writ jurisdiction.
+• Appellate jurisdiction.
+• Supervisory jurisdiction over subordinate courts.
+
+UPSC Focus:
+Article 226, judicial independence and access to justice.
+"
+NOTE_011,notes,Judicial Review,Judiciary,"
+Definition:
+Judicial Review is the power of the judiciary to examine the constitutional validity of laws and executive actions.
+
+Relevant Constitutional Articles:
+Articles 13, 32, 131, 136, 141, 142, 226.
+
+Key Features:
+• Protects constitutional supremacy.
+• Safeguards Fundamental Rights.
+• Invalidates unconstitutional laws.
+• Forms part of the Basic Structure doctrine.
+
+UPSC Focus:
+Judicial activism, constitutional supremacy and separation of powers.
+"
+NOTE_012,notes,Judicial Activism,Judiciary,"
+Definition:
+Judicial Activism refers to the proactive role played by the judiciary in protecting constitutional values and public interest.
+
+Key Features:
+• Expansion of Fundamental Rights.
+• Public Interest Litigation.
+• Protection of governance and accountability.
+
+UPSC Focus:
+Judicial overreach versus judicial restraint.
+"
+NOTE_013,notes,Judicial Accountability,Judiciary,"
+Definition:
+Judicial Accountability ensures that judges remain independent while maintaining transparency, ethics and public confidence.
+
+Key Issues:
+• Judicial appointments.
+• Judicial conduct.
+• Transparency.
+• Pendency of cases.
+
+UPSC Focus:
+Judicial reforms and accountability mechanisms.
+"
+NOTE_014,notes,Basic Structure,Constitution,"
+Definition:
+The Basic Structure Doctrine limits Parliament's power to amend the Constitution.
+
+Key Features:
+• Constitutional supremacy.
+• Rule of law.
+• Judicial review.
+• Federalism.
+• Separation of powers.
+• Democracy.
+• Secularism.
+
+UPSC Focus:
+Balance between Parliament and Judiciary.
+"
+NOTE_015,notes,Federalism,Constitution,"
+Definition:
+Federalism refers to the constitutional division of powers between the Union and the States.
+
+Key Features:
+• Union List.
+• State List.
+• Concurrent List.
+• Independent Judiciary.
+• Written Constitution.
+
+UPSC Focus:
+Cooperative federalism and competitive federalism.
+"
+NOTE_016,notes,Centre-State Relations,Polity,"
+Definition:
+Centre-State Relations define the constitutional relationship between the Union Government and the State Governments.
+
+Relevant Constitutional Articles:
+Articles 245-263, 355 and 356.
+
+Dimensions:
+• Legislative relations.
+• Administrative relations.
+• Financial relations.
+
+Role of Governor:
+• Constitutional link between Union and State.
+• Communicates constitutional issues.
+• Can reserve Bills for Presidential consideration.
+
+Institutions:
+• Inter-State Council.
+• Finance Commission.
+
+UPSC Focus:
+Cooperative federalism, Governor's role, fiscal federalism, Sarkaria Commission and Punchhi Commission.
+"
+NOTE_017,notes,Inter-State Council,Polity,"
+Definition:
+The Inter-State Council promotes coordination between the Union and States.
+
+Relevant Constitutional Article:
+Article 263.
+
+Functions:
+• Policy coordination.
+• Interstate dispute discussion.
+• Cooperative federalism.
+
+UPSC Focus:
+Strengthening Centre-State relations.
+"
+NOTE_018,notes,Finance Commission,Constitutional Bodies,"
+Definition:
+The Finance Commission recommends distribution of financial resources between the Union and States.
+
+Relevant Constitutional Article:
+Article 280.
+
+Functions:
+• Tax devolution.
+• Grants-in-aid.
+• Fiscal federalism.
+
+UPSC Focus:
+Vertical and horizontal devolution.
+"
+NOTE_019,notes,Election Commission,Constitutional Bodies,"
+Definition:
+The Election Commission of India is an independent constitutional authority responsible for conducting free and fair elections.
+
+Relevant Constitutional Article:
+Article 324.
+
+Functions:
+• Conduct elections.
+• Electoral rolls.
+• Model Code of Conduct.
+
+UPSC Focus:
+Electoral reforms and independence.
+"
+NOTE_020,notes,Comptroller and Auditor General (CAG),Constitutional Bodies,"
+Definition:
+The Comptroller and Auditor General (CAG) audits Union and State finances.
+
+Relevant Constitutional Articles:
+Articles 148-151.
+
+Functions:
+• Audit government expenditure.
+• Promote accountability.
+• Financial transparency.
+
+UPSC Focus:
+Public financial management and accountability.
+"
+NOTE_021,notes,Attorney General,Constitutional Bodies,
+NOTE_022,notes,NITI Aayog,Governance,
+NOTE_023,notes,Fundamental Rights,Constitution,
+NOTE_024,notes,Directive Principles of State Policy,Constitution,
+NOTE_025,notes,Fundamental Duties,Constitution,
+NOTE_026,notes,Emergency Provisions,Constitution,
+NOTE_027,notes,Panchayati Raj,Local Governance,
+NOTE_028,notes,Municipalities,Local Governance,
+NOTE_029,notes,Constitutional Amendments,Constitution,
+NOTE_030,notes,Cooperative Federalism,Governance,

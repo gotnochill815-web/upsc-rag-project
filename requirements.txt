@@ -1,0 +1,11 @@
+pandas
+numpy
+faiss-cpu
+rank-bm25
+sentence-transformers
+transformers
+torch
+streamlit
+scikit-learn
+nltk
+tqdm

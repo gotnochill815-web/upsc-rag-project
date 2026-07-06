@@ -1,0 +1,33 @@
+doc_id,source,title,topic,text,retrieval_text
+NOTE_GOV_001,notes,Appointment of Governor,Executive,"
+The Governor is appointed by the President under Article 155.
+The Governor holds office during the pleasure of the President under Article 156.
+Normally the tenure is five years.
+","Appointment of Governor Executive 
+The Governor is appointed by the President under Article 155.
+The Governor holds office during the pleasure of the President under Article 156.
+Normally the tenure is five years.
+"
+NOTE_GOV_002,notes,Powers of Governor,Executive,"
+The Governor exercises executive, legislative, financial and judicial powers.
+The Governor also has discretionary powers in specific situations.
+","Powers of Governor Executive 
+The Governor exercises executive, legislative, financial and judicial powers.
+The Governor also has discretionary powers in specific situations.
+"
+NOTE_GOV_003,notes,Discretionary Powers,Executive,"
+The Governor can reserve Bills for the President under Article 200,
+recommend President's Rule under Article 356,
+and invite a party to form the government when no clear majority exists.
+","Discretionary Powers Executive 
+The Governor can reserve Bills for the President under Article 200,
+recommend President's Rule under Article 356,
+and invite a party to form the government when no clear majority exists.
+"
+NOTE_GOV_004,notes,Governor and Centre-State Relations,Federalism,"
+The Governor acts as the constitutional link between the Union and the State.
+The Governor sends reports to the President regarding constitutional machinery in the State.
+","Governor and Centre-State Relations Federalism 
+The Governor acts as the constitutional link between the Union and the State.
+The Governor sends reports to the President regarding constitutional machinery in the State.
+"

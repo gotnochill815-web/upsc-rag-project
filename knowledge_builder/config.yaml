@@ -1,0 +1,209 @@
+topics:
+
+  Governor:
+
+    constitution_articles:
+      - ART_153
+      - ART_154
+      - ART_155
+      - ART_156
+      - ART_157
+      - ART_158
+      - ART_159
+      - ART_160
+      - ART_161
+      - ART_163
+      - ART_167
+      - ART_174
+      - ART_175
+      - ART_176
+      - ART_200
+      - ART_201
+      - ART_213
+      - ART_356
+
+    pyq_topics:
+      - Executive
+
+    keywords:
+      - Governor
+      - Discretionary Powers
+      - Centre-State Relations
+      - President's Rule
+      - Article 356
+
+  President:
+
+    constitution_articles:
+      - ART_52
+      - ART_53
+      - ART_54
+      - ART_55
+      - ART_56
+      - ART_57
+      - ART_58
+      - ART_59
+      - ART_60
+      - ART_61
+      - ART_72
+      - ART_74
+      - ART_123
+
+    pyq_topics:
+      - Executive
+
+    keywords:
+      - President
+      - Ordinance
+      - Veto
+      - Pardoning
+
+  Prime Minister:
+
+    constitution_articles:
+      - ART_74
+      - ART_75
+      - ART_77
+      - ART_78
+
+    pyq_topics:
+      - Executive
+
+    keywords:
+      - Prime Minister
+      - Cabinet
+      - Council of Ministers
+
+  Parliament:
+
+    constitution_articles:
+      - ART_79
+      - ART_80
+      - ART_81
+      - ART_83
+      - ART_85
+      - ART_86
+      - ART_100
+      - ART_107
+      - ART_108
+      - ART_109
+      - ART_110
+      - ART_111
+      - ART_118
+      - ART_122
+
+    pyq_topics:
+      - Legislature
+
+    keywords:
+      - Parliament
+      - Lok Sabha
+      - Rajya Sabha
+      - Money Bill
+      - Parliamentary Committee
+
+  Judiciary:
+
+    constitution_articles:
+      - ART_124
+      - ART_125
+      - ART_126
+      - ART_127
+      - ART_128
+      - ART_129
+      - ART_130
+      - ART_131
+      - ART_136
+      - ART_141
+      - ART_142
+      - ART_214
+      - ART_226
+      - ART_227
+
+    pyq_topics:
+      - Judiciary
+
+    keywords:
+      - Supreme Court
+      - High Court
+      - Judicial Review
+      - Collegium
+
+  Election Commission:
+
+    constitution_articles:
+      - ART_324
+
+    pyq_topics:
+      - Constitutional Bodies
+
+    keywords:
+      - Election Commission
+      - Elections
+      - MCC
+
+  Finance Commission:
+
+    constitution_articles:
+      - ART_280
+
+    pyq_topics:
+      - Constitutional Bodies
+
+    keywords:
+      - Finance Commission
+      - Fiscal Federalism
+
+  CAG:
+
+    constitution_articles:
+      - ART_148
+      - ART_149
+      - ART_150
+      - ART_151
+
+    pyq_topics:
+      - Constitutional Bodies
+
+    keywords:
+      - CAG
+      - Audit
+
+  Local Government:
+
+    constitution_articles:
+      - ART_243
+      - ART_243A
+      - ART_243B
+      - ART_243C
+      - ART_243D
+      - ART_243E
+      - ART_243F
+      - ART_243G
+      - ART_243H
+      - ART_243I
+      - ART_243J
+      - ART_243K
+      - ART_243L
+      - ART_243M
+      - ART_243N
+      - ART_243O
+      - ART_243P
+      - ART_243Q
+      - ART_243R
+      - ART_243S
+      - ART_243T
+      - ART_243U
+      - ART_243V
+      - ART_243W
+      - ART_243X
+      - ART_243Y
+      - ART_243Z
+
+    pyq_topics:
+      - Local Government
+
+    keywords:
+      - Panchayat
+      - Municipality
+      - Urban Local Body

@@ -1,0 +1,59 @@
+- All the documents are about the Indian Constitution.
+- The questions are based on the content of the documents.
+- The answers should be concise and should not contain any superfluous words.
+- The answers should be based on the information given in the documents.
+- The answers should not include any personal opinions or subjective statements.
+- The answers should not exceed 100 words per note.
+- Please provide the notes in bullet point format.
+- Please use the provided document numbers where applicable.
+- Please avoid paraphrasing the question; instead, try to directly address the question using the information provided in the documents.
+- Please avoid writing explanations or derivations of the facts mentioned in the documents.
+- Please avoid writing about the same topic multiple times.
+- Please avoid writing long answers exceeding 100 words.
+- Please avoid writing answers without quotes or citations.
+- Please avoid writing answers without proper formatting.
+- Please avoid writing answers without bullet points.
+- Please avoid writing answers without including the source document number.
+- Please avoid writing answers without including the relevant section/paragraph in the document.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the important articles mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned

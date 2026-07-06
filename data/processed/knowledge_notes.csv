@@ -1,0 +1,1621 @@
+doc_id,source,title,topic,text,retrieval_text
+NOTE_CAG,knowledge_note,CAG,CAG,"- All the documents are about the Indian Constitution.
+- The questions are based on the content of the documents.
+- The answers should be concise and should not contain any superfluous words.
+- The answers should be based on the information given in the documents.
+- The answers should not include any personal opinions or subjective statements.
+- The answers should not exceed 100 words per note.
+- Please provide the notes in bullet point format.
+- Please use the provided document numbers where applicable.
+- Please avoid paraphrasing the question; instead, try to directly address the question using the information provided in the documents.
+- Please avoid writing explanations or derivations of the facts mentioned in the documents.
+- Please avoid writing about the same topic multiple times.
+- Please avoid writing long answers exceeding 100 words.
+- Please avoid writing answers without quotes or citations.
+- Please avoid writing answers without proper formatting.
+- Please avoid writing answers without bullet points.
+- Please avoid writing answers without including the source document number.
+- Please avoid writing answers without including the relevant section/paragraph in the document.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the important articles mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned","CAG
+- All the documents are about the Indian Constitution.
+- The questions are based on the content of the documents.
+- The answers should be concise and should not contain any superfluous words.
+- The answers should be based on the information given in the documents.
+- The answers should not include any personal opinions or subjective statements.
+- The answers should not exceed 100 words per note.
+- Please provide the notes in bullet point format.
+- Please use the provided document numbers where applicable.
+- Please avoid paraphrasing the question; instead, try to directly address the question using the information provided in the documents.
+- Please avoid writing explanations or derivations of the facts mentioned in the documents.
+- Please avoid writing about the same topic multiple times.
+- Please avoid writing long answers exceeding 100 words.
+- Please avoid writing answers without quotes or citations.
+- Please avoid writing answers without proper formatting.
+- Please avoid writing answers without bullet points.
+- Please avoid writing answers without including the source document number.
+- Please avoid writing answers without including the relevant section/paragraph in the document.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the important articles mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned in the documents.
+- Please avoid writing answers without including the key takeaways mentioned in the documents.
+- Please avoid writing answers without including the key features mentioned in the documents.
+- Please avoid writing answers without including the UPSC PYQ insights mentioned"
+NOTE_ELECTION_COMMISSION,knowledge_note,Election Commission,Election Commission,"- All questions are based on the given document.
+- You should aim to write concise bullet points.
+- Include references where applicable.
+- Avoid paraphrasing the question; instead, explain your reasoning.
+- Make sure to include relevant articles and links wherever possible.
+- Aim to cover multiple aspects of the topic comprehensively.
+- Ensure that your notes are structured according to the guidelines provided.
+
+Please provide the notes. To begin, please refer to Document 1 for the introduction and constitutional provisions related to the Election Commission. Then, proceed to Document 2 for the discussion on the role of the Central Bureau of Investigation (CBI). Next, move to Document 3 for the jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging FIRs and conducting probes. Document 4 discusses the constitutional validity and competency of the Central Bureau of Investigation (CBI) in India. Document 5 explains the recommendations of the 14th Finance Commission of India enabling the states to improve their fiscal position. Document 6 examines the jurisdiction of the Comptroller and Auditor General (CAG) in India. Document 7 analyzes the recommendations of the Attorney-General in India. Document 8 discusses the role of the Comptroller and Auditor General (CAG) in relation to the accounts of the Union and the States. Document 9 evaluates the effectiveness of the recommendations of the 14th Finance Commission of India in improving the fiscal position of the Indian States. Document 10 examines the jurisdiction of the National Commission for Women in India. Document 11 discusses the role of the National Commission for Women in ensuring the protection of women's rights. Document 12 outlines the structure of the Judicial Appointments Commission (JAC). Document 13 introduces the concept of the Regulatory Institutions Act, 1996. Document 14 highlights the role of the National Human Rights Commission (NHRC) in India. Document 15 elaborates on the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 16 discusses the setting up of a Rail Tariff Authority to regulate fares. Document 17 addresses the challenges faced by the Railways due to the expansion of the railway network. Document 18 examines the role of the Product Diversification Committee in the context of the Indian Railways' operations. Document 19 discusses the impact of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 20 provides a detailed analysis of the reforms proposed by the Election Commission of India in 2016. Document 21 delves into the suggestions made by the Election Commission of India to enhance the quality of democracy in India. Document 22 focuses on the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 23 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 24 explores the implications of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 25 discusses the role of the Election Commission of India in the context of the Model Code of Conduct. Document 26 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 27 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 28 discusses the implications of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 29 provides a detailed analysis of the reforms proposed by the Election Commission of India in 2016. Document 30 delves into the role of the Electoral Commission in the context of the Model Code of Conduct. Document 31 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 32 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 33 provides a detailed analysis of the role of the Electoral Commission in the context of the Model Code of Conduct. Document 34 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 35 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 36 provides a detailed analysis of the role of the Electoral Commission in the context of the Model Code of Conduct.","Election Commission
+- All questions are based on the given document.
+- You should aim to write concise bullet points.
+- Include references where applicable.
+- Avoid paraphrasing the question; instead, explain your reasoning.
+- Make sure to include relevant articles and links wherever possible.
+- Aim to cover multiple aspects of the topic comprehensively.
+- Ensure that your notes are structured according to the guidelines provided.
+
+Please provide the notes. To begin, please refer to Document 1 for the introduction and constitutional provisions related to the Election Commission. Then, proceed to Document 2 for the discussion on the role of the Central Bureau of Investigation (CBI). Next, move to Document 3 for the jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging FIRs and conducting probes. Document 4 discusses the constitutional validity and competency of the Central Bureau of Investigation (CBI) in India. Document 5 explains the recommendations of the 14th Finance Commission of India enabling the states to improve their fiscal position. Document 6 examines the jurisdiction of the Comptroller and Auditor General (CAG) in India. Document 7 analyzes the recommendations of the Attorney-General in India. Document 8 discusses the role of the Comptroller and Auditor General (CAG) in relation to the accounts of the Union and the States. Document 9 evaluates the effectiveness of the recommendations of the 14th Finance Commission of India in improving the fiscal position of the Indian States. Document 10 examines the jurisdiction of the National Commission for Women in India. Document 11 discusses the role of the National Commission for Women in ensuring the protection of women's rights. Document 12 outlines the structure of the Judicial Appointments Commission (JAC). Document 13 introduces the concept of the Regulatory Institutions Act, 1996. Document 14 highlights the role of the National Human Rights Commission (NHRC) in India. Document 15 elaborates on the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 16 discusses the setting up of a Rail Tariff Authority to regulate fares. Document 17 addresses the challenges faced by the Railways due to the expansion of the railway network. Document 18 examines the role of the Product Diversification Committee in the context of the Indian Railways' operations. Document 19 discusses the impact of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 20 provides a detailed analysis of the reforms proposed by the Election Commission of India in 2016. Document 21 delves into the suggestions made by the Election Commission of India to enhance the quality of democracy in India. Document 22 focuses on the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 23 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 24 explores the implications of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 25 discusses the role of the Election Commission of India in the context of the Model Code of Conduct. Document 26 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 27 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 28 discusses the implications of the Electronic Voting Machine (EVM) scandal on the functioning of the Election Commission of India. Document 29 provides a detailed analysis of the reforms proposed by the Election Commission of India in 2016. Document 30 delves into the role of the Electoral Commission in the context of the Model Code of Conduct. Document 31 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 32 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 33 provides a detailed analysis of the role of the Electoral Commission in the context of the Model Code of Conduct. Document 34 outlines the role of the Electoral Commission in the context of the Model Code of Conduct. Document 35 examines the recommendations of the 13th Finance Commission for strengthening the local government finances. Document 36 provides a detailed analysis of the role of the Electoral Commission in the context of the Model Code of Conduct."
+NOTE_FINANCE_COMMISSION,knowledge_note,Finance Commission,Finance Commission,"- Please note that all questions are based on the provisions of the Constitution of India.
+- All answers must be in English.
+- You need to provide bullet point summary of each document.
+- Each bullet point should contain the title of the document, source, content, and any relevant insights or key takeaways mentioned in the document.
+- Ensure that the notes are structured according to the given structure.
+- Avoid paraphrasing the text; instead, use your own words to explain the concepts discussed.
+- Include references to the articles in the notes wherever applicable.
+- Aim to cover all aspects of the question without going beyond the scope of the provided documents.
+- Make sure to mention the sources where appropriate.
+- Keep the length of the notes manageable, ideally around 10 pages.
+- Provide bullet points rather than full paragraphs for better readability.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+-","Finance Commission
+- Please note that all questions are based on the provisions of the Constitution of India.
+- All answers must be in English.
+- You need to provide bullet point summary of each document.
+- Each bullet point should contain the title of the document, source, content, and any relevant insights or key takeaways mentioned in the document.
+- Ensure that the notes are structured according to the given structure.
+- Avoid paraphrasing the text; instead, use your own words to explain the concepts discussed.
+- Include references to the articles in the notes wherever applicable.
+- Aim to cover all aspects of the question without going beyond the scope of the provided documents.
+- Make sure to mention the sources where appropriate.
+- Keep the length of the notes manageable, ideally around 10 pages.
+- Provide bullet points rather than full paragraphs for better readability.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+- Ensure that the notes are self-contained, meaning no external sources are used except those explicitly stated.
+- Maintain consistency in referencing the sources throughout the notes.
+- Use proper grammar and spelling in your writing.
+- Avoid using abbreviations unless specifically instructed to do so.
+- Ensure that the notes are comprehensive enough to address the questions asked but also concise enough to fit within the given word limit.
+- Use bullet points to organize the information concisely.
+-"
+NOTE_GOVERNOR,knowledge_note,Governor,Governor,".
+
+--------------------------------------------------
+
+
+Document 21
+
+Title:
+GS-II 2022 Q3
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Chief Minister of a state as the leader of the government of that state. Discuss the powers of the Chief Minister of a state.
+
+--------------------------------------------------
+
+
+Document 22
+
+Title:
+GS-II 2022 Q4
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of India as the head of the country. Discuss the powers of the President of India.
+
+--------------------------------------------------
+
+
+Document 23
+
+Title:
+GS-II 2022 Q5
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Prime Minister of India as the head of the government of India. Discuss the powers of the Prime Minister of India.
+
+--------------------------------------------------
+
+
+Document 24
+
+Title:
+GS-II 2022 Q6
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Speaker of the Lok Sabha as the head of the legislature of India. Discuss the powers of the Speaker of the Lok Sabha.
+
+--------------------------------------------------
+
+
+Document 25
+
+Title:
+GS-II 2022 Q7
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of India as the head of the judiciary of India. Discuss the powers of the President of the Supreme Court of India.
+
+--------------------------------------------------
+
+
+Document 26
+
+Title:
+GS-II 2022 Q8
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Chief Justice of the Supreme Court of India as the head of the judiciary of India. Discuss the powers of the Chief Justice of the Supreme Court of India.
+
+--------------------------------------------------
+
+
+Document 27
+
+Title:
+GS-II 2022 Q9
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Indian Administrative Tribunal as the head of the administrative tribunal of India. Discuss the powers of the President of the Indian Administrative Tribunal.
+
+--------------------------------------------------
+
+
+Document 28
+
+Title:
+GS-II 2022 Q10
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 29
+
+Title:
+GS-II 2022 Q11
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 30
+
+Title:
+GS-II 2022 Q12
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 31
+
+Title:
+GS-II 2022 Q13
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 32
+
+Title:
+GS-II 2022 Q14
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 33
+
+Title:
+GS-II 2022 Q15
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 34
+
+Title:
+GS-II 2022 Q16
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature","Governor
+.
+
+--------------------------------------------------
+
+
+Document 21
+
+Title:
+GS-II 2022 Q3
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Chief Minister of a state as the leader of the government of that state. Discuss the powers of the Chief Minister of a state.
+
+--------------------------------------------------
+
+
+Document 22
+
+Title:
+GS-II 2022 Q4
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of India as the head of the country. Discuss the powers of the President of India.
+
+--------------------------------------------------
+
+
+Document 23
+
+Title:
+GS-II 2022 Q5
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Prime Minister of India as the head of the government of India. Discuss the powers of the Prime Minister of India.
+
+--------------------------------------------------
+
+
+Document 24
+
+Title:
+GS-II 2022 Q6
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Speaker of the Lok Sabha as the head of the legislature of India. Discuss the powers of the Speaker of the Lok Sabha.
+
+--------------------------------------------------
+
+
+Document 25
+
+Title:
+GS-II 2022 Q7
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of India as the head of the judiciary of India. Discuss the powers of the President of the Supreme Court of India.
+
+--------------------------------------------------
+
+
+Document 26
+
+Title:
+GS-II 2022 Q8
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Chief Justice of the Supreme Court of India as the head of the judiciary of India. Discuss the powers of the Chief Justice of the Supreme Court of India.
+
+--------------------------------------------------
+
+
+Document 27
+
+Title:
+GS-II 2022 Q9
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Indian Administrative Tribunal as the head of the administrative tribunal of India. Discuss the powers of the President of the Indian Administrative Tribunal.
+
+--------------------------------------------------
+
+
+Document 28
+
+Title:
+GS-II 2022 Q10
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 29
+
+Title:
+GS-II 2022 Q11
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 30
+
+Title:
+GS-II 2022 Q12
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 31
+
+Title:
+GS-II 2022 Q13
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 32
+
+Title:
+GS-II 2022 Q14
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 33
+
+Title:
+GS-II 2022 Q15
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature of India.
+
+--------------------------------------------------
+
+
+Document 34
+
+Title:
+GS-II 2022 Q16
+
+Source:
+pyq
+
+Content:
+Discuss the role of the President of the Supreme Court of Judicature of India as the head of the judicial branch of India. Discuss the powers of the President of the Supreme Court of Judicature"
+NOTE_JUDICIARY,knowledge_note,Judiciary,Judiciary,"Please refer to the document for the full content.
+
+---
+
+### Judicial Reforms and Constitutional Changes
+
+#### Establishment and Constitution of Supreme Court
+
+**Article 22:**
+The Supreme Court was established by Article 22 of the Constitution of India. This article states that the Supreme Court shall consist of a Chief Justice and up to seven other Judges.
+
+**Article 23:**
+The Chief Justice of India shall be appointed by the President by a warrant under his hand and seal after consultation with the Chief Justice of the High Courts in the States. The President may prescribe a larger number of Judges.
+
+**Article 24:**
+Every Judge of the Supreme Court shall be appointed by the President by a warrant under his hand and seal after consultation with the Chief Justice of the High Courts in the States. The President may prescribe a larger number of Judges.
+
+**Article 25:**
+The age of a Judge of the Supreme Court shall be determined by the President by such authority and in such manner as Parliament may by law provide.
+
+**Article 26:**
+A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and has been for at least five years a Judge of a High Court or of two or more such Courts in succession. He must also have been for at least ten years an Advocate of a High Court or of two or more such Courts in succession.
+
+**Article 27:**
+A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity.
+
+**Article 28:**
+Every person appointed to be a Judge of the Supreme Court shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.
+
+**Article 29:**
+No person who has held office as a Judge of the Supreme Court shall plead or act in any court or before any authority within the territory of India.
+
+**Article 30:**
+The Chief Justice of India may at any time, with the previous consent of the President, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India. Every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court.
+
+**Article 31:**
+The Supreme Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.
+
+**Article 32:**
+The Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute between the Government of India and one or more States; between the Government of India and any State or States on one side and one or more other States on the other; and between two or more States, if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends.
+
+**Article 33:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.
+
+**Article 34:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to the Armed Forces.
+
+**Article 35:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to the Armed Forces.
+
+**Article 36","Judiciary
+Please refer to the document for the full content.
+
+---
+
+### Judicial Reforms and Constitutional Changes
+
+#### Establishment and Constitution of Supreme Court
+
+**Article 22:**
+The Supreme Court was established by Article 22 of the Constitution of India. This article states that the Supreme Court shall consist of a Chief Justice and up to seven other Judges.
+
+**Article 23:**
+The Chief Justice of India shall be appointed by the President by a warrant under his hand and seal after consultation with the Chief Justice of the High Courts in the States. The President may prescribe a larger number of Judges.
+
+**Article 24:**
+Every Judge of the Supreme Court shall be appointed by the President by a warrant under his hand and seal after consultation with the Chief Justice of the High Courts in the States. The President may prescribe a larger number of Judges.
+
+**Article 25:**
+The age of a Judge of the Supreme Court shall be determined by the President by such authority and in such manner as Parliament may by law provide.
+
+**Article 26:**
+A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and has been for at least five years a Judge of a High Court or of two or more such Courts in succession. He must also have been for at least ten years an Advocate of a High Court or of two or more such Courts in succession.
+
+**Article 27:**
+A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity.
+
+**Article 28:**
+Every person appointed to be a Judge of the Supreme Court shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.
+
+**Article 29:**
+No person who has held office as a Judge of the Supreme Court shall plead or act in any court or before any authority within the territory of India.
+
+**Article 30:**
+The Chief Justice of India may at any time, with the previous consent of the President, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India. Every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court.
+
+**Article 31:**
+The Supreme Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.
+
+**Article 32:**
+The Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute between the Government of India and one or more States; between the Government of India and any State or States on one side and one or more other States on the other; and between two or more States, if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends.
+
+**Article 33:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.
+
+**Article 34:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to the Armed Forces.
+
+**Article 35:**
+The Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to the Armed Forces.
+
+**Article 36"
+NOTE_LOCAL_GOVERNMENT,knowledge_note,Local Government,Local Government," order of the Supreme Court of India or by the Governor of the State concerned;
+
+ 
+
+(c) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(d) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(e) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(f) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(g) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(h) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(i) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(j) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(k) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(l) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(m) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(n) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of","Local Government
+ order of the Supreme Court of India or by the Governor of the State concerned;
+
+ 
+
+(c) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(d) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(e) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(f) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(g) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(h) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(i) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(j) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(k) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(l) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(m) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of any other country;
+
+ 
+
+(n) no appeal shall lie against any judgment or decree of the Supreme Court of India or by the Governor of the State concerned, except in cases where the judgment or decree is challenged on the ground that it is contrary to the Constitution or the laws of the State or the Constitution of India or the laws of any other State or the laws of"
+NOTE_PARLIAMENT,knowledge_note,Parliament,Parliament,". Discuss the changes in the composition of Rajya Sabha and how these changes have impacted the functioning of the institution.
+
+--------------------------------------------------
+
+
+Document 22
+
+Title:
+GS-II 2020 Q8
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Supreme Court in the context of the Indian Constitution. How does the Supreme Court's role differ from that of the High Courts?
+
+--------------------------------------------------
+
+
+Document 23
+
+Title:
+GS-II 2020 Q9
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Lok Sabha in the context of the Indian Constitution. How does the role of the Lok Sabha differ from that of the Rajya Sabha?
+
+--------------------------------------------------
+
+
+Document 24
+
+Title:
+GS-II 2020 Q10
+
+Source:
+pyq
+
+Content:
+Discuss the role of the National Advisory Council (NAC). How does the NAC differ from the National Advisory Committee (NAC)?
+
+--------------------------------------------------
+
+
+Document 25
+
+Title:
+GS-II 2020 Q11
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Central Board of Direct Taxes (CBDT). How does the CBDT differ from the Central Board of Secondary Education (CBSE)?
+
+--------------------------------------------------
+
+
+Document 26
+
+Title:
+GS-II 2020 Q12
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Personnel, Training and Information Technology (MPTIT). How does the MPTIT differ from the Ministry of Defence (MoD)?
+
+--------------------------------------------------
+
+
+Document 27
+
+Title:
+GS-II 2020 Q13
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Home Affairs (MAH). How does the MAH differ from the Ministry of External Affairs (MEA)?
+
+--------------------------------------------------
+
+
+Document 28
+
+Title:
+GS-II 2020 Q14
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Health and Family Welfare (MHFW). How does the MHFW differ from the Ministry of Social Justice and Empowerment (MSJE)?
+
+--------------------------------------------------
+
+
+Document 29
+
+Title:
+GS-II 2020 Q15
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Women and Child Development (MWCD). How does the MWCD differ from the Ministry of Women and Rural Development (MWRD)?
+
+--------------------------------------------------
+
+
+Document 30
+
+Title:
+GS-II 2020 Q16
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Urban Development (MODU). How does the MODU differ from the Ministry of Rural Development (MRD)?
+
+--------------------------------------------------
+
+
+Document 31
+
+Title:
+GS-II 2020 Q17
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Education (MOE). How does the MOE differ from the Ministry of Science and Technology (MOST)?
+
+--------------------------------------------------
+
+
+Document 32
+
+Title:
+GS-II 2020 Q18
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Labour and Employment (MLTE). How does the MLTE differ from the Ministry of Human Resource Development (HRD)?
+
+--------------------------------------------------
+
+
+Document 33
+
+Title:
+GS-II 2020 Q19
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Tourism and Culture (MTC). How does the MTC differ from the Ministry of Culture (MC)?
+
+--------------------------------------------------
+
+
+Document 34
+
+Title:
+GS-II 2020 Q20
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 35
+
+Title:
+GS-II 2020 Q21
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 36
+
+Title:
+GS-II 2020 Q22
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 37
+
+Title:
+GS-II","Parliament
+. Discuss the changes in the composition of Rajya Sabha and how these changes have impacted the functioning of the institution.
+
+--------------------------------------------------
+
+
+Document 22
+
+Title:
+GS-II 2020 Q8
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Supreme Court in the context of the Indian Constitution. How does the Supreme Court's role differ from that of the High Courts?
+
+--------------------------------------------------
+
+
+Document 23
+
+Title:
+GS-II 2020 Q9
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Lok Sabha in the context of the Indian Constitution. How does the role of the Lok Sabha differ from that of the Rajya Sabha?
+
+--------------------------------------------------
+
+
+Document 24
+
+Title:
+GS-II 2020 Q10
+
+Source:
+pyq
+
+Content:
+Discuss the role of the National Advisory Council (NAC). How does the NAC differ from the National Advisory Committee (NAC)?
+
+--------------------------------------------------
+
+
+Document 25
+
+Title:
+GS-II 2020 Q11
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Central Board of Direct Taxes (CBDT). How does the CBDT differ from the Central Board of Secondary Education (CBSE)?
+
+--------------------------------------------------
+
+
+Document 26
+
+Title:
+GS-II 2020 Q12
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Personnel, Training and Information Technology (MPTIT). How does the MPTIT differ from the Ministry of Defence (MoD)?
+
+--------------------------------------------------
+
+
+Document 27
+
+Title:
+GS-II 2020 Q13
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Home Affairs (MAH). How does the MAH differ from the Ministry of External Affairs (MEA)?
+
+--------------------------------------------------
+
+
+Document 28
+
+Title:
+GS-II 2020 Q14
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Health and Family Welfare (MHFW). How does the MHFW differ from the Ministry of Social Justice and Empowerment (MSJE)?
+
+--------------------------------------------------
+
+
+Document 29
+
+Title:
+GS-II 2020 Q15
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Women and Child Development (MWCD). How does the MWCD differ from the Ministry of Women and Rural Development (MWRD)?
+
+--------------------------------------------------
+
+
+Document 30
+
+Title:
+GS-II 2020 Q16
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Urban Development (MODU). How does the MODU differ from the Ministry of Rural Development (MRD)?
+
+--------------------------------------------------
+
+
+Document 31
+
+Title:
+GS-II 2020 Q17
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Education (MOE). How does the MOE differ from the Ministry of Science and Technology (MOST)?
+
+--------------------------------------------------
+
+
+Document 32
+
+Title:
+GS-II 2020 Q18
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Labour and Employment (MLTE). How does the MLTE differ from the Ministry of Human Resource Development (HRD)?
+
+--------------------------------------------------
+
+
+Document 33
+
+Title:
+GS-II 2020 Q19
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Tourism and Culture (MTC). How does the MTC differ from the Ministry of Culture (MC)?
+
+--------------------------------------------------
+
+
+Document 34
+
+Title:
+GS-II 2020 Q20
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 35
+
+Title:
+GS-II 2020 Q21
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 36
+
+Title:
+GS-II 2020 Q22
+
+Source:
+pyq
+
+Content:
+Discuss the role of the Ministry of Defence (MDA). How does the DIA differ from the Ministry of Defence (MDA)?
+
+--------------------------------------------------
+
+
+Document 37
+
+Title:
+GS-II"
+NOTE_PRESIDENT,knowledge_note,President,President,"- Please ensure that you provide your answers based on the content of the provided documents.
+- Ensure that your answer does not contain any irrelevant information.
+- Your answer must include the key features mentioned in the document.
+- Include the articles only if they are used in your answer.
+- Avoid paraphrasing the questions/answers already given.
+- Aim to keep your answer concise and to the point.
+- Make sure to mention the source of the document wherever applicable.
+- Provide bullet points instead of detailed explanations.
+- Keep the length of your notes within 500 words.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet","President
+- Please ensure that you provide your answers based on the content of the provided documents.
+- Ensure that your answer does not contain any irrelevant information.
+- Your answer must include the key features mentioned in the document.
+- Include the articles only if they are used in your answer.
+- Avoid paraphrasing the questions/answers already given.
+- Aim to keep your answer concise and to the point.
+- Make sure to mention the source of the document wherever applicable.
+- Provide bullet points instead of detailed explanations.
+- Keep the length of your notes within 500 words.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet"
+NOTE_PRIME_MINISTER,knowledge_note,Prime Minister,Prime Minister,"Please refer to the provided documents for the above questions. Please provide your answers in bullet point format. Include references wherever necessary.
+
+---
+
+### Notes:
+
+#### **Council of Ministers to Aid and Advice the President**
+
+**Article:** (1)
+- **Purpose**: To assist and advise the President in exercising his functions.
+- **Limitations**: The President may require the Council of Ministers to reconsider their advice, either generally or otherwise, and the President shall act in accordance with the advice tendered after such reconsideration.
+- **Disqualifications**: Members of either House of Parliament belonging to any political party who are disqualified for being a member of that House under Article 109 shall also be disqualified to be appointed as a Minister under this Article for duration of the period commencing from the date of his disqualification till the date on which the term of his office as such member would expire or where he contests any election to either House of Parliament before the expiry of such period, till the date on which he is declared elected, whichever is earlier.
+
+**Article:** (2)
+- **Total Number of Ministers**: The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.
+- **Reconsideration Period**: The question whether any, and if so what, advice was tendered by Ministers to the President shall not be inquired into in any court.
+
+**Article:** (3)
+- **Constitutional Limitations**: The Council of Ministers shall be collectively responsible to the House of the People.
+- **Appointment**: The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.
+- **Term of Office**: The Ministers shall hold office during the pleasure of the President.
+
+**Article:** (4)
+- **Salary and Allowances**: The salaries and allowances of Ministers shall be such as Parliament may from time to time by law determine and, until Parliament so determines, shall be as specified in the Second Schedule.
+
+**Article:** (5)
+- **Orders and Instruments**: The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.
+- **Validity**: The validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.
+
+**Article:** (6)
+- **Resignation**: The salaries and allowances of Ministers shall be such as Parliament may from time to time by law determine and, until Parliament so determines, shall be as specified in the Second Schedule.
+
+---
+
+### Notes:
+
+#### **Conduct of Business of the Government of India**
+
+**Article:** 
+- **All Executive Action**: All executive action of the Government of India shall be expressed to be taken in the name of the President.
+- **Order and Instrument**: Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.
+- **Vice-Presidents**: The Vice-President of India shall be the Chairman of the Rajya Sabha.
+
+---
+
+### Notes:
+
+#### **Duties of Prime Minister as Respectively Concerning Filing of Information to the President, etc.**
+
+**Article:** 
+- **Filing of Information**: It shall be the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union and proposals for legislation;
+- **Filing of Information**: The Prime Minister shall furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for; and
+- **Filing of Information**: If the President so requires, the Prime Minister shall submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.
+
+---
+
+### Notes:
+
+#### **Role of the Vice-Presidents of India as the Chairman of the Rajya Sabha**
+
+**Article:** 
+- **Chairman of the Rajya Sabha**: The Vice-President of India shall be the Chairman of the Rajya Sabha.
+
+---
+
+### Notes:
+
+","Prime Minister
+Please refer to the provided documents for the above questions. Please provide your answers in bullet point format. Include references wherever necessary.
+
+---
+
+### Notes:
+
+#### **Council of Ministers to Aid and Advice the President**
+
+**Article:** (1)
+- **Purpose**: To assist and advise the President in exercising his functions.
+- **Limitations**: The President may require the Council of Ministers to reconsider their advice, either generally or otherwise, and the President shall act in accordance with the advice tendered after such reconsideration.
+- **Disqualifications**: Members of either House of Parliament belonging to any political party who are disqualified for being a member of that House under Article 109 shall also be disqualified to be appointed as a Minister under this Article for duration of the period commencing from the date of his disqualification till the date on which the term of his office as such member would expire or where he contests any election to either House of Parliament before the expiry of such period, till the date on which he is declared elected, whichever is earlier.
+
+**Article:** (2)
+- **Total Number of Ministers**: The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.
+- **Reconsideration Period**: The question whether any, and if so what, advice was tendered by Ministers to the President shall not be inquired into in any court.
+
+**Article:** (3)
+- **Constitutional Limitations**: The Council of Ministers shall be collectively responsible to the House of the People.
+- **Appointment**: The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.
+- **Term of Office**: The Ministers shall hold office during the pleasure of the President.
+
+**Article:** (4)
+- **Salary and Allowances**: The salaries and allowances of Ministers shall be such as Parliament may from time to time by law determine and, until Parliament so determines, shall be as specified in the Second Schedule.
+
+**Article:** (5)
+- **Orders and Instruments**: The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.
+- **Validity**: The validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.
+
+**Article:** (6)
+- **Resignation**: The salaries and allowances of Ministers shall be such as Parliament may from time to time by law determine and, until Parliament so determines, shall be as specified in the Second Schedule.
+
+---
+
+### Notes:
+
+#### **Conduct of Business of the Government of India**
+
+**Article:** 
+- **All Executive Action**: All executive action of the Government of India shall be expressed to be taken in the name of the President.
+- **Order and Instrument**: Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.
+- **Vice-Presidents**: The Vice-President of India shall be the Chairman of the Rajya Sabha.
+
+---
+
+### Notes:
+
+#### **Duties of Prime Minister as Respectively Concerning Filing of Information to the President, etc.**
+
+**Article:** 
+- **Filing of Information**: It shall be the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union and proposals for legislation;
+- **Filing of Information**: The Prime Minister shall furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for; and
+- **Filing of Information**: If the President so requires, the Prime Minister shall submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.
+
+---
+
+### Notes:
+
+#### **Role of the Vice-Presidents of India as the Chairman of the Rajya Sabha**
+
+**Article:** 
+- **Chairman of the Rajya Sabha**: The Vice-President of India shall be the Chairman of the Rajya Sabha.
+
+---
+
+### Notes:
+
+"

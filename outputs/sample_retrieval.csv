@@ -1,0 +1,102 @@
+doc_id,source,title,topic,text,retrieval_text,bm25_score,rrf_score,dense_score,rerank_score
+GS2_2019_HistoricalUnderpinnings_10,pyq,GS-II 2019 Q10,"HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES'",What can France learn from the Indian Constitution's approach to secularism?,"GS-II 2019 Q10 HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES' What can France learn from the Indian Constitution's approach to secularism?",38.30258892787301,0.03278688524590164,0.8447450995445251,6.6210093
+ART_0,constitution,Preamble,Constitution,"WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship;
+EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION","Preamble Constitution WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship;
+EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION",8.327374792983761,0.03200204813108039,0.6827408671379089,-2.1246448
+GS2_2022_HistoricalUnderpinnings_3,pyq,GS-II 2022 Q3,"HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES'",Critically examine the procedures through which the presidents of India and France are elected.,"GS-II 2022 Q3 HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES' Critically examine the procedures through which the presidents of India and France are elected.",12.849842330992528,0.03200204813108039,0.6821664571762085,-4.0072775
+GS2_2020_HistoricalUnderpinnings_6,pyq,GS-II 2020 Q6,"HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES'","Indian constitution exhibits centralizing tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.","GS-II 2020 Q6 HISTORICAL UNDERPINNINGS & EVOLUTION; FEATURES, AMENDMENTS, SIGNIFICANT PROVISIONS, BASIC STRUCTURE; COMPARISON OF INDIAN CONSTITUTIONAL SCHEME WITH OTHER COUNTRIES' Indian constitution exhibits centralizing tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts.",5.877945517051297,0.028309409888357256,0.6292122602462769,-5.666197
+ART_51A,constitution,Fundamental duties,Constitution,"It shall be the duty of every citizen of India—
+
+ 
+
+(a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;
+
+ 
+
+(b) to cherish and follow the noble ideals which inspired our national struggle for freedom;
+
+ 
+
+c) to uphold and protect the sovereignty, unity and integrity of India;
+
+ 
+
+(d) to defend the country and render national service when called upon to do so;
+
+ 
+
+(e) to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women;
+
+ 
+
+(f) to value and preserve the rich heritage of our composite culture;
+
+ 
+
+(g) to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;
+
+ 
+
+(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;
+
+ 
+
+(i) to safeguard public property and to abjure violence;
+
+ 
+
+(j) to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;
+
+ 
+
+(k) who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.
+
+ 
+","Fundamental duties Constitution It shall be the duty of every citizen of India—
+
+ 
+
+(a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;
+
+ 
+
+(b) to cherish and follow the noble ideals which inspired our national struggle for freedom;
+
+ 
+
+c) to uphold and protect the sovereignty, unity and integrity of India;
+
+ 
+
+(d) to defend the country and render national service when called upon to do so;
+
+ 
+
+(e) to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women;
+
+ 
+
+(f) to value and preserve the rich heritage of our composite culture;
+
+ 
+
+(g) to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;
+
+ 
+
+(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;
+
+ 
+
+(i) to safeguard public property and to abjure violence;
+
+ 
+
+(j) to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;
+
+ 
+
+(k) who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.
+
+ 
+",0.0,0.014925373134328358,0.643216609954834,-5.90803

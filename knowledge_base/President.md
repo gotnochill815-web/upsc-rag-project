@@ -1,0 +1,97 @@
+- Please ensure that you provide your answers based on the content of the provided documents.
+- Ensure that your answer does not contain any irrelevant information.
+- Your answer must include the key features mentioned in the document.
+- Include the articles only if they are used in your answer.
+- Avoid paraphrasing the questions/answers already given.
+- Aim to keep your answer concise and to the point.
+- Make sure to mention the source of the document wherever applicable.
+- Provide bullet points instead of detailed explanations.
+- Keep the length of your notes within 500 words.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet points to organize your notes.
+- Use bullet
