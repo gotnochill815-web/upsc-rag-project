@@ -6,18 +6,16 @@ class AnswerGenerator:
 
     def __init__(self):
 
-        model_name = "Qwen/Qwen2.5-1.5B-Instruct"
+        model_name = "Qwen/Qwen2.5-0.5B-Instruct"
 
         self.tokenizer = AutoTokenizer.from_pretrained(
-            model_name,
-            trust_remote_code=True
+            model_name
         )
 
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            torch_dtype=torch.float32,   # CPU deployment
-            low_cpu_mem_usage=True,
-            trust_remote_code=True
+            torch_dtype=torch.float32,
+            low_cpu_mem_usage=True
         )
 
         self.model.eval()
@@ -29,7 +27,6 @@ class AnswerGenerator:
         for i, row in enumerate(docs.itertuples(), 1):
 
             context += f"""
-==============================
 Document {i}
 
 Title: {row.title}
@@ -38,23 +35,22 @@ Source: {row.source}
 
 Content:
 {row.text}
-==============================
+
+---------------------------------------
 """
 
         return f"""
 You are an expert UPSC GS-II mentor.
 
-You MUST answer ONLY using the retrieved documents below.
+Answer ONLY using the retrieved documents.
 
-Rules:
-1. Do NOT use outside knowledge.
-2. Do NOT invent constitutional articles.
-3. Do NOT invent facts.
-4. If the retrieved documents do not contain sufficient information, explicitly write:
-   "Information not found in retrieved documents."
-5. Use only evidence present in the retrieved context.
+If the documents do not contain enough information, say:
+"Information not found in retrieved documents."
 
-Write the answer in UPSC Mains format:
+Do not invent constitutional articles.
+Do not invent facts.
+
+Write the answer in this format:
 
 # Introduction
 
@@ -67,6 +63,7 @@ Write the answer in UPSC Mains format:
 # Conclusion
 
 Question:
+
 {question}
 
 Retrieved Documents:
@@ -81,10 +78,7 @@ Retrieved Documents:
         messages = [
             {
                 "role": "system",
-                "content": (
-                    "You are an expert UPSC GS-II faculty. "
-                    "Answer strictly from the provided documents."
-                )
+                "content": "You are an expert UPSC GS-II faculty. Answer only from the provided documents."
             },
             {
                 "role": "user",
@@ -103,15 +97,14 @@ Retrieved Documents:
             return_tensors="pt",
             truncation=True,
             max_length=4096
-        )
+        ).to(self.model.device)
 
         with torch.no_grad():
 
             outputs = self.model.generate(
                 **inputs,
-                max_new_tokens=600,
+                max_new_tokens=400,
                 temperature=0.1,
-                top_p=0.9,
                 do_sample=False,
                 repetition_penalty=1.15,
                 pad_token_id=self.tokenizer.eos_token_id
