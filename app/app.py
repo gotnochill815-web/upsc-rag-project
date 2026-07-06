@@ -2,7 +2,12 @@ import os
 import sys
 import pandas as pd
 import streamlit as st
+import nltk
 
+try:
+    nltk.data.find("corpora/stopwords")
+except LookupError:
+    nltk.download("stopwords")
 # =====================================================
 # Project Root
 # =====================================================
