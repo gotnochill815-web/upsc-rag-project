@@ -5,24 +5,20 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 class AnswerGenerator:
 
     def __init__(self):
-
         model_name = "Qwen/Qwen2.5-1.5B-Instruct"
-
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            model_name
+        )
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            torch_dtype=torch.float32
+            torch_dtype=torch.float32,
+            low_cpu_mem_usage=True
         )
-
         self.model.eval()
 
     def build_prompt(self, question, docs):
-
         context = ""
-
         for i, row in enumerate(docs.itertuples(), 1):
-
             context += f"""
 Document {i}
 
@@ -65,9 +61,7 @@ Documents:
 """
 
     def generate(self, question, docs):
-
         prompt = self.build_prompt(question, docs)
-
         messages = [
             {
                 "role": "system",
@@ -93,7 +87,6 @@ Documents:
         ).to(self.model.device)
 
         with torch.no_grad():
-
             outputs = self.model.generate(
                 **inputs,
                 max_new_tokens=700,
@@ -104,7 +97,6 @@ Documents:
             )
 
         answer = outputs[0][inputs.input_ids.shape[1]:]
-
         return self.tokenizer.decode(
             answer,
             skip_special_tokens=True
